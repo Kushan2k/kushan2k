@@ -42,10 +42,13 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![DJango](https://img.shields.io/badge/DJANGO-092e20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Php](https://img.shields.io/badge/PHP-787cb5.svg?style=for-the-badge&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-f7e77c.svg?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Flask](https://img.shields.io/badge/FLASK-000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Flutter](https://img.shields.io/badge/FLUTTER-42A5F5.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
 
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
