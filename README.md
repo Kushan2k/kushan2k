@@ -20,6 +20,9 @@
      <a href="https://www.linkedin.com/in/ivelin-iliev-16272baa/">
         <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
     </a>
+    <a href="https://www.linkedin.com/in/ivelin-iliev-16272baa/">
+        <img src="https://www.svgrepo.com/show/13639/instagram.svg" alt="Connect on Linkedin">
+    </a>
 </div>
 
 
