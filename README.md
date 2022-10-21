@@ -17,7 +17,7 @@
     <a href="https://twitter.com/itskushang">
         <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/twitter.svg" alt="Follow me on twitter">
     </a>
-     <a href="https://www.linkedin.com/in/kushangayantha-b2069b1a8">
+     <a href="www.linkedin.com/in/kushan-gayantha-b2069b1a8">
         <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
     </a>
  
