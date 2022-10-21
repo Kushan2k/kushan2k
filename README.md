@@ -43,7 +43,6 @@
 ![DJango](https://img.shields.io/badge/DJANGO-092e20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Php](https://img.shields.io/badge/PHP-787cb5.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-f7e77c.svg?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Flask](https://img.shields.io/badge/FLASK-000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Flutter](https://img.shields.io/badge/FLUTTER-42A5F5.svg?style=for-the-badge&logo=flutter&logoColor=white)
