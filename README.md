@@ -13,8 +13,14 @@
 **Kushan2k/kushan2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ## 🌐Socials
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@CodeWhiteWeb) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/CodeWhiteWeb)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@CodeWhiteWeb) [![Twitter](https://img.shields.io/twitter/url?style=social)](https://reddit.com/user/CodeWhiteWeb)
+<div align="center" style="background:#414a50; padding: 25px 0;">
+    <a href="https://twitter.com/ThisIsIvoLondon">
+        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/twitter.svg" alt="Follow me on twitter">
+    </a>
+     <a href="https://www.linkedin.com/in/ivelin-iliev-16272baa/">
+        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
+    </a>
+</div>
 
 
 
@@ -29,3 +35,4 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white) 
