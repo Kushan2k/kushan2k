@@ -102,6 +102,10 @@
 <img src="https://skillicons.dev/icons?i=solidity" alt="Git" width="40" height="40"/>
 </p>
 
+<hr>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 <h3 align="left">Stars</h3>
 
 <div align='center'>
@@ -121,9 +125,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
-<hr>
+<!-- <hr>
 <img src="https://raw.githubusercontent.com/Kushan2k/Kushan2k/output/snake.svg" alt="Snake animation" />
-<hr>
+<hr> -->
 
 <h3 align="center">Statistics</h3>
 <div align="center">
@@ -136,6 +140,9 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kushan2k&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kushan2k&theme=2077" height="180em" />
 </div>
+
+
+
 
 
 <br>
