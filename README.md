@@ -15,6 +15,11 @@
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
+
+<div align='center'>
+  <img  src='https://github-stats-alpha.vercel.app/api?username=Kushan2k'/>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kushan2k&label=Profile%20views&color=0e75b6&style=flat" alt="Kushan2k" /> </p>
 
 
@@ -104,7 +109,10 @@
 
 <hr>
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align='center'>
+  <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light'/>
+</div>
+
 
 <h3 align="left">Stars</h3>
 
@@ -113,8 +121,8 @@
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushan2k&layout=compact&theme=" alt=Kushan2k />
 
 <p>&nbsp;
-
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Kushan2k&show_icons=true&locale=en&theme=default" alt="Kushan2k" />
+<br/>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Kushan2k&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Kushan2k" />
 </p>
 
 <p>
