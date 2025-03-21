@@ -1,5 +1,3 @@
-
-
 <h3 align="center">
   Welcome to My profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -7,8 +5,6 @@
 <p align="center">
   <a href="https://github.com/Kushan2k/kushan2k"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70C238&center=true&width=435&lines=Hi%2C+Welcome+To+My+GitHub+Profile;I+am+Kushan+Gayantha;I+am+a+Full+Stack+Developer;Web+Dev;Android+Dev;UI%2FUX" alt="Typing SVG" /></a>
 </p>
-
-
 
 <h1 align="center">Hi 👋, I'm Kushan Gayantha</h1>
 <h3 align="center">Full Stack Developer</h3>
@@ -21,7 +17,6 @@
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kushan2k&label=Profile%20views&color=0e75b6&style=flat" alt="Kushan2k" /> </p>
-
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 <div align='center'>
@@ -113,6 +108,16 @@
   <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light'/>
 </div>
 
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=64627160" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=64627160&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Kushan2k" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=64627160&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <h3 align="left">Stars</h3>
 
@@ -129,10 +134,11 @@
 
 <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushan2k&theme=" alt="Kushan2k" /></p>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 <!-- <hr>
 <img src="https://raw.githubusercontent.com/Kushan2k/Kushan2k/output/snake.svg" alt="Snake animation" />
 <hr> -->
@@ -148,10 +154,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kushan2k&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kushan2k&theme=2077" height="180em" />
 </div>
-
-
-
-
 
 <br>
 <div align='center'>
